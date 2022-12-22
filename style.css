@@ -1,0 +1,39 @@
+input[type="text"]{
+    width: 25%;
+    padding: 12px 20px;
+    margin: 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="submit"]{
+    width: 25%;
+    background-color:#4caf50;
+    color: #fff;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+textarea[type="text"]{
+    width: 25%;
+    padding: 12px 20px;
+    margin: 14px 0;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+input[type="submit"]{
+    background-color: #45a049;
+}
+
+.form{
+    padding: 20px 20px;
+    background-color: #f2f2f2;
+}
+div{
+    color:black;
+    font-weight: 500
+}
